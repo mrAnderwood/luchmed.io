@@ -17,7 +17,6 @@
 
     color: transparent;
     border: none;
-    outline: none;
     background: transparent;
 }
 .slick-prev:hover,
@@ -25,9 +24,7 @@
 .slick-next:hover,
 .slick-next:focus
 {
-    color: transparent;
-    outline: none;
-    background: transparent;
+    opacity: 1;
 }
 
 
